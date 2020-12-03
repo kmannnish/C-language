@@ -36,8 +36,8 @@ int main()
     /* Calculate percentage by percentage formula */
     per = (phy + chem + bio + math + comp) / 5.0;
 
-    // %.2f is used to print fractional values up to two decimal places, we can also use %f
-    printf("Percentage = %.2f\n", per);
+    /* %.2f is used to print fractional values up to two decimal places, we can also use %f
+    printf("Percentage = %.2f\n", per); */
 
     /* Find grade according to the percentage */
     if (per >= 90)
