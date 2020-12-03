@@ -5,6 +5,7 @@ Recently I started Learning [C](https://en.wikipedia.org/wiki/C_(programming_lan
 ## Installation
 Use the [Visual Studio Code](https://code.visualstudio.com/download) to run this program.
 Download Extensions in VS code C/C++ and Code Runner
+
 and need Compilar for windows [MinGW-w64-for 32 and 64bit Windows](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)
 Add the bin subdirectory of your MinGW installation to your PATH environment variable, so that you can specify these tools on the command line by their simple names.
 
